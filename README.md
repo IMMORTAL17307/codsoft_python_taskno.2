@@ -4,6 +4,7 @@ A Python script designed to generate highly secure and complex randomized passwo
 
 ### 👨‍💻 Developer Details
 * **Name:** Ishant Khare
+* **Domain:** Python Programming
 * **Company:** CodSoft
 
 ### 🎯 Objective
